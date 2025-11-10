@@ -26,4 +26,3 @@ Setiap eksperimen memiliki folder terpisah yang berisi:
 
 ## Simulasi Wiring 
 Wokwi:
-https://wokwi.com/projects/447206591545559041
