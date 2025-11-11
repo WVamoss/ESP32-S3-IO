@@ -11,18 +11,13 @@
 
 Repository ini berisi serangkaian eksperimen menggunakan **ESP32-S3** untuk menguji:
 
-1. **Konektivitas semua peripheral** ke ESP32-S3  
-2. **Program terpisah untuk tiap I/O**  
-3. **Eksekusi I/O di core yang berbeda** menggunakan FreeRTOS  
-4. **Dokumentasi lengkap** berupa langkah percobaan, gambar, dan video sesuai format GitHub
-
-Setiap eksperimen memiliki folder terpisah yang berisi:
-- Deskripsi fungsional
-- Hardware mapping
-- Langkah percobaan
-- Evidence (gambar & video)
-- Program Arduino/FreeRTOS
-
-
-## Simulasi Wiring 
-Wokwi:
+<p> Pada repository ini berisikan program-program I/O ESP32 yang menggunakan peripheral:<br>
+<li> LED </li>
+<li> Button
+<li> Buzzer
+<li> OLED
+<li>Servo
+<li> Stepper
+<li> Encoder
+<li> Potentiometer <br>
+Masing-masing Peripheral akan di akses oleh Core 0 dan Core 1 ESP32 </p>
