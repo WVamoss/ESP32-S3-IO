@@ -7,9 +7,9 @@
 
 ---
 
-## Description / Deskripsi
+## Deskripsi
 
-Repository ini berisi serangkaian eksperimen menggunakan **ESP32-S3** untuk menguji:
+
 
 <p> Pada repository ini berisikan program-program I/O ESP32 yang menggunakan peripheral:<br>
 <li> LED </li>
