@@ -14,4 +14,4 @@
 
 ## Video
 Google Drive:
-https://
+https://drive.google.com/drive/folders/1ChEo_r9U71FJwd_PN-gCYMEppXbQwh9K
