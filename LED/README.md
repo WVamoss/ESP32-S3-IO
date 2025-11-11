@@ -16,7 +16,7 @@ Tujuan utama: membuktikan bahwa kedua core dapat menjalankan task berbeda secara
 | Device | Pin     | Mode                 |
 |--------|---------|----------------------|
 | LED1   | GPIO 2  | Output (Task Core 0) |
-| LED2   | GPIO 15 | Output (Task Core 1) |
+
 
 
 ## Test Procedure / Langkah Percobaan
