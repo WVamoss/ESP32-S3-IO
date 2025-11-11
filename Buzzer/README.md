@@ -6,7 +6,7 @@
 
 
 ### Buzzer Core 1 
-![alt text](?raw=true)
+![alt text](https://github.com/WVamoss/Gambar-Tugas-IO/blob/main/Buzzer/Buzzer%20core%200.png?raw=true)
 
 ### Buzzer Core 2
 ![alt text](?raw=true)
