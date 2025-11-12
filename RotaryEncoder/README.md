@@ -5,10 +5,10 @@
 ![alt text](https://github.com/WVamoss/Gambar-Tugas-IO/blob/main/RotaryEnconder/RotaryEncoder.png?raw=true)
 
 
-### PushButton Core 0 
+### RotaryEncoder Core 0 
 ![alt text](https://github.com/WVamoss/Gambar-Tugas-IO/blob/main/RotaryEnconder/RotaryEncoder%20Core%200.png?raw=true)
 
-### PushButton Core 1
+### RotaryEncoder Core 1
 ![alt text](https://github.com/WVamoss/Gambar-Tugas-IO/blob/main/RotaryEnconder/RotaryEncoder%20Core%201.png?raw=true)
 
 ## Video
