@@ -5,10 +5,10 @@
 ![alt text](https://github.com/WVamoss/Gambar-Tugas-IO/blob/main/Potensiometer/Potensiometer.png?raw=true)
 
 
-### OLED Core 0 
+### Potensiometer Core 0 
 ![alt text](https://github.com/WVamoss/Gambar-Tugas-IO/blob/main/Potensiometer/Potensiometer%20Core%200.jpg?raw=true)
 
-### OLED Core 1
+### Potensiometer Core 1
 ![alt text](https://github.com/WVamoss/Gambar-Tugas-IO/blob/main/Potensiometer/Potensiometer%20Core%201.jpg?raw=true)
 
 
