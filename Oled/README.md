@@ -1,7 +1,7 @@
 ## Gambar OLED
 
 
-### LED
+### OLED
 ![alt text](https://github.com/WVamoss/Gambar-Tugas-IO/blob/main/Oled/OLED.png?raw=true)
 
 
