@@ -24,7 +24,7 @@ Masing-masing Peripheral akan di jalankan di prioritas yang sama dan core yang b
 Berikut Foto Rangkaian seluruh peripheral pada ESP-S3 : ![alt text](https://github.com/WVamoss/Gambar-Tugas-IO/blob/main/AllPeripheral/AllPeripheral.png?raw=true)
 
 ## Hasil Simulasi
-Berikut Hasil Program seluruh Task Peripheral di ESP32-S3 pada simulasi Wokwi:<[https://wokwi.com/projects/447369031058413569])>
+Berikut Hasil Program seluruh Task Peripheral di ESP32-S3 pada simulasi Wokwi:[https://wokwi.com/projects/447369031058413569])
 
 ## Video
 Google Drive: https://drive.google.com/file/d/1hDK6pHW9XEeVkRYeDvAPhK-xJy6eArNg/view?usp=sharing
