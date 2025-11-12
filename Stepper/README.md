@@ -2,7 +2,7 @@
 
 
 ### Stepper
-![alt text](https://github.com/WVamoss/Gambar-Tugas-IO/blob/main/Stepper/Stepper.pngg?raw=true)
+![alt text](https://github.com/WVamoss/Gambar-Tugas-IO/blob/main/Stepper/Stepper.png?raw=true)
 
 
 ### Stepper Core 0 
